@@ -1,6 +1,7 @@
 ---
 title: Bhuvan Sarupuri
 role: Post Doctorate in Human Computer Interaction
+avatar_filename: bhu.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
