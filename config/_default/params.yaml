@@ -20,14 +20,14 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: bhuvaneswari.sarupuri@gmail.com
+phone: 0614785620  
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Campus de Beaulieu, 263 Av. Général Leclerc,
+  city: Rennes
   region: CA
-  postcode: '94305'
-  country: United States
+  postcode: '35042'
+  country: France
   country_code: US
 coordinates:
   latitude: '37.4275'
@@ -46,14 +46,7 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+
 
 # Site header
 
