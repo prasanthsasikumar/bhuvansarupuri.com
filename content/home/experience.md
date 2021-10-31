@@ -69,7 +69,7 @@ experience:
     company_logo: org-x
     location: Chennai, India
     date_start: '2014-07-01'
-    date_end: '2015-09-31'
+    date_end: '2015-09-25'
     description: |2-
         Responsibilities include:
 
