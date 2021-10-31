@@ -70,13 +70,14 @@ experience:
     location: Chennai, India
     date_start: '2014-07-01'
     date_end: '2015-09-31'
-      description: |2-
-        Responsibilities include
+    description: |2-
+        Responsibilities include:
 
         * Working on Computer Vision Algorithms
         * Building cloud recognition algorithms
         * Developing augmented reality applications for mobile and web
         * Data Visualization using devices like Kinect and Leap Motion
+        
 design:
   columns: '2'
 ---
