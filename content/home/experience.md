@@ -51,7 +51,7 @@ experience:
     company_logo: org-x
     location: Australia
     date_start: '2020-05-01'
-    date_end: '2020-06-31'
+    date_end: '2020-07-31'
     description: Mathematics tutor for secondary to undergraduate students.
 
   - title: Research Intern
