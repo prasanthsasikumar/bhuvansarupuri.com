@@ -21,9 +21,9 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: bhuvaneswari.sarupuri@gmail.com
-phone: 0614785620  
+phone: 061 478 56 20  
 address:
-  street: Campus de Beaulieu, 263 Av. Général Leclerc,
+  street: Campus de Beaulieu, 263 Av. Général Leclerc
   city: Rennes
   region: CA
   postcode: '35042'
@@ -41,7 +41,7 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/BhuvanSarupuri'
   - icon: skype
     icon_pack: fab
     name: Skype Me
