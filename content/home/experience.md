@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Researcher
     company: Inria
     company_url: ''
-    company_logo: org-i
+    company_logo: org-x
     location: Rennes, France
     date_start: '2020-08-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Postdoctoral Researcher
     company: University of Canterbury
     company_url: ''
-    company_logo: org-hit
+    company_logo: org-x
     location: Christchurch, NZ
     date_start: '2020-03-01'
     date_end: '2020-07-31'
@@ -48,7 +48,7 @@ experience:
   - title: Mathematics Tutor
     company: Studiosity
     company_url: ''
-    company_logo: org-hit
+    company_logo: org-x
     location: Australia
     date_start: '2020-05-01'
     date_end: '2020-06-31'
@@ -57,7 +57,7 @@ experience:
   - title: Research Intern
     company: GRAIL lab
     company_url: ''
-    company_logo: org-hit
+    company_logo: org-x
     location: Greater Seattle Area
     date_start: '2018-07-01'
     date_end: '2018-09-31'
@@ -66,7 +66,7 @@ experience:
   - title: Image Processing Expert
     company: Augmentron
     company_url: ''
-    company_logo: org-hit
+    company_logo: org-x
     location: Chennai, India
     date_start: '2014-07-01'
     date_end: '2015-09-31'
@@ -77,7 +77,7 @@ experience:
         * Building cloud recognition algorithms
         * Developing augmented reality applications for mobile and web
         * Data Visualization using devices like Kinect and Leap Motion
-        
+
 design:
   columns: '2'
 ---
